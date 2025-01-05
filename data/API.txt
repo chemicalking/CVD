@@ -1,0 +1,8 @@
+
+TF_AI_1 CVD_NF3_Flow RAG NF3氣體流量即時監控
+
+inno-jrr4rhwyzj5d4grl342pzsuv6pmdfkzwsy2atglnveucx5wprkpa
+
+TF_AI_2  CVD_RPSC 智慧文件 RPSC監控用來計算OE分析
+
+inno-yv5aiphci5pl2ajotfxhc7nfzm46faxmna3itbw6lmymmnasrymq

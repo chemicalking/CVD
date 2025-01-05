@@ -1,0 +1,40 @@
+PS E:\python\test> pip list
+
+PS E:\python\test> pip install virtualenv
+
+
+PS E:\python\test> virtualenv venv --python=3.11 
+
+PS E:\python\test> virtualenv venv --python=3.9.13
+
+PS E:\python\test> pip install virtualenv
+
+PS E:\python\test> .\venv\Scripts\activate.ps1
+
+PS E:\python\test> Set-ExecutionPolicy Unrestricted #開啟powershell權限
+pip install openai
+
+PS E:\python\test> .\venv\Scripts\activate.ps1     #進入虛擬環境
+
+.\streamlit\NF3_Flow
+
+cd .\streamlit\NF3_Flow
+.\streamlit\PCA
+
+streamlit run 01_🎈_main_app.py
+
+先在venv建立 test.ipynb
+
+jupyter lab
+
+(venv) PS E:\python\test> pip list
+
+# cmd
+# 建立虛擬環境
+python -m venv venv
+
+# 啟動虛擬環境
+venv/Scripts/activate.ps1
+
+# 安裝環境所需套件
+pip install -r requirements_PD.txt
